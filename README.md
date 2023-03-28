@@ -47,7 +47,7 @@ possible to unpack properties from object, into distinct variables
 
 >  ## Whhat is new DAte() in js ?
 
- >https://github.com/Muhammadi02062720/Presentation-4-/blob/d35eda94d7e96cc35b33396baf99d26c6f410cee/images/Screenshot_13.png
+ ![](https://github.com/Muhammadi02062720/Presentation-4-/blob/d35eda94d7e96cc35b33396baf99d26c6f410cee/images/Screenshot_13.png)
 
 > ##### Creating date object:
  >There are four ways of creating date in js:
